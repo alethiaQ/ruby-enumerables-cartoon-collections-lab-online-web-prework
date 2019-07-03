@@ -10,8 +10,7 @@ def summon_captain_planet(array)
 end
 
 def long_planeteer_calls(calls)
-  calls.map {|c| 
-  if c.size > 4 
+  calls.map {|
 end
 
 def find_the_cheese# code an argument here
