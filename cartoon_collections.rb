@@ -6,7 +6,7 @@ end
 end
 
 def summon_captain_planet(array)
-  array.map! {|array| array.Capitalize
+  array.map! {|array| array.capitalize
  
 end
 
