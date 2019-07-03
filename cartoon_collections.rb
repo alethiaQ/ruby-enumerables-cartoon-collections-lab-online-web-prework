@@ -13,7 +13,11 @@ def long_planeteer_calls(calls)
   calls.any? { |word| word.length > 4 }
 end
 
-def find_the_cheese# code an argument here
-  # the array below is here to help
-  cheese_types = ["cheddar", "gouda", "camembert"]
+def find_the_cheese(snacks)
+  snacks.include? {|item| item == cheese_types = ["cheddar", "gouda", "camembert"]
+  if item == cheese_types 
+    puts item 
+  end 
+  }
+  
 end
