@@ -20,7 +20,6 @@ def find_the_cheese(snacks)
     puts item 
   end
   
-  end 
-  }
+
   
 end
