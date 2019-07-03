@@ -7,7 +7,7 @@ end
 
 def summon_captain_planet(array)
   array.map! {|array| array.capitalize}
-  array.each {
+  array.each {|name| puts name + "!"}
  
 end
 
